@@ -1,2 +1,3 @@
 <h1>I learned in this lab how to use terminal on my mac</h1>
-![Cat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fflagged%2Fphoto-1557427161-4701a0fa2f42%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%253D%253D%26w%3D1000%26q%3D80&tbnid=lTK0oSV5w7TGXM&vet=12ahUKEwjM6vfcmLf_AhVIBzQIHWxgDvwQMygBegUIARDwAQ..i&imgrefurl=https%3A%2F%2Funsplash.com%2Fimages%2Fanimals%2Fcat&docid=TmUkLtkPkKEi5M&w=1000&h=1500&q=image%20of%20cat&ved=2ahUKEwjM6vfcmLf_AhVIBzQIHWxgDvwQMygBegUIARDwAQ)
+
+  ![DOG](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQab6Io-Ojknu5NRSaO7QhscT1H619NA2j7kB2EYu2tTh6_JCOIP5l0kVY8WhRy4_oinDw&usqp=CAU)
